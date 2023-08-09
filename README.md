@@ -1,4 +1,4 @@
-# flutter_tutorial_1
+# flutter_googlecodelabs_tutorial1
 
 A new Flutter project.
 
